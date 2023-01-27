@@ -4,9 +4,9 @@
 ## Drones formally called quadcopter are unmanned aerial vehicles that are remotely controlled. They range in size from under one pound to several hundred pounds (Perlman 2016). This thesis addresses drones classified for consumer use, which the Federal Aviation Administration (FAA) defines as drones between 0.55 to 55 lbs. (FAA 2016e). Since consumer drones have been available for purchase in greater numbers than ever before, legislation related to no-fly zones needs to be centrally organized (Perlman 2016). This can be done through the creation of a geodatabase and web-GIS map, which will allow for visualization of drone use areas.in this project we explained about quadcopter ,classifications with bot service..
 
 # Project Demo links:
-## Github Reposistroy Link:
-## Azure Project Demo Url:
-## Project Explaination Demo video Url:
+## Github Reposistroy Link: https://github.com/PARTHIPATIHEMALATHA/quadcopter
+## Azure Project Demo Url: https://gray-plant-002807310.2.azurestaticapps.net
+
 
 # Azure Technologies Used:
 ## Static Web app,
@@ -44,15 +44,31 @@
 
 # Frt Project Screen Shots:
 ## Home page:
-
+![home](https://user-images.githubusercontent.com/118505703/215048938-bbe9dad4-7f96-488c-b557-3274bb1ceb54.png)
 ## About Project:
+![about](https://user-images.githubusercontent.com/118505703/215048990-a91c4f92-679f-4143-b208-3c08c54fcaef.png)
 
 ## Classification Page:
+![classifications](https://user-images.githubusercontent.com/118505703/215049024-2e9ae203-946f-4805-84d4-b4a4353d2a8c.png)
 
 ## Azure bot Service:
+![1](https://user-images.githubusercontent.com/118505703/215049162-af53e954-5a58-4b08-8e04-d8e39b608edd.png)
 
 ## Contact us page:
+![contact us](https://user-images.githubusercontent.com/118505703/215049203-52d15fe4-a54e-47fc-8650-34f4ca7e3456.png)
 
+## Azure bot functionality:
+![1](https://user-images.githubusercontent.com/118505703/215049241-0b70bf86-f84e-4f72-a70b-986218faf268.png)
 
-# Thank You......
+![2](https://user-images.githubusercontent.com/118505703/215049281-3710809f-0921-44ae-9f3e-a5b99c9217b2.png)
+
+![3](https://user-images.githubusercontent.com/118505703/215049331-88e67dcf-b11f-49a0-a3bd-248bbfecde1f.png)
+
+![4](https://user-images.githubusercontent.com/118505703/215049361-36c81a4e-4be2-44eb-a422-e74e592f01f2.png)
+
+![5](https://user-images.githubusercontent.com/118505703/215049381-4b1bfbfb-f5c6-436c-a7bc-f047aa2848c6.png)
+
+![6](https://user-images.githubusercontent.com/118505703/215049404-224b4305-f3a2-4b86-9589-7ea2ca5ebf5d.png)
+
+                                       # Thank You......
 
