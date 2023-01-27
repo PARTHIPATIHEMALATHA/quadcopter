@@ -9,14 +9,11 @@
 
 
 # Azure Technologies Used:
-## Static Web app,
-## Azure BOt Service
+Static Web app,
+Azure BOt Service
 
 # Web Stack Used:
-## Html,
-## Css,
-## Javascript,
-## Bootstrap(for Card Designing)
+Html, Css, Javascript,Bootstrap(for Card Designing)
 
 # Azure Technologies Screen Shots: Azure Resources page,Azure bot configuration:
 ## Azure Resources Page:
@@ -70,5 +67,5 @@
 
 ![6](https://user-images.githubusercontent.com/118505703/215049404-224b4305-f3a2-4b86-9589-7ea2ca5ebf5d.png)
 
-                                       # Thank You......
+  # Thank You......
 
